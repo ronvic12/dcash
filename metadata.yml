@@ -1,0 +1,12 @@
+---
+:id: 82224165
+:submitters:
+- :name: Ronvic Ernest Cuevas
+  :email: rscuevas@ucdavis.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-06-07 02:39:35.903848000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-06-06 19:39:35.903848000 Z
+:status: processed
+:score: 195.0
